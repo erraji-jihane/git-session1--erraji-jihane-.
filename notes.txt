@@ -5,3 +5,4 @@ Personal development notes.
 - Stage and commit changes.
 - Practice branching and merging.
 - Synchronize with GitHub.
+- Remember to verify repository status before committing.
