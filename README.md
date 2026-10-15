@@ -24,3 +24,7 @@ console.log("Hello, Git and GitHub!");
 
 ## Useful Link
 - [Git Documentation](https://git-scm.com/doc)
+
+## GitHub Remote Update
+
+This section was added directly on GitHub to practice fetching and pulling remote changes.
