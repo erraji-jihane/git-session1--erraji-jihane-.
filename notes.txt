@@ -1,0 +1,7 @@
+Personal development notes.
+
+## Git Practice
+- Initialize repositories.
+- Stage and commit changes.
+- Practice branching and merging.
+- Synchronize with GitHub.
